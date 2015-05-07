@@ -3,7 +3,7 @@ title: Auto einai to mikro mou site
 email: tmail777@openmailbox.org
 description: > # this means to ignore newlines until "baseurl:"
   S'auto to mikro site grafw o,ti mou kanei entypwsei ;h genika, o,ti mou kapnisei... 
-baseurl: "" # the subpath of your site, e.g. /mablog/
+baseurl: "/home/oceanius/grepo777.github.io/mablog" # the subpath of your site, e.g. /mablog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
